@@ -14,6 +14,21 @@ Calculators are essential tools that have revolutionized the way we perform math
 
 [TI-Calculator](https://chatgpt.com/g/g-67dfe813d24081918153b38925a2c033-ti-calculator) simulates the experience of using a Texas Instruments graphing calculator, such as the TI-83, TI-84, or TI-89. It is designed to assist users with a wide range of mathematical tasks, from basic arithmetic and algebraic expressions to advanced calculus operations, statistical analysis, and graphing of functions. By mimicking the functionality of these popular graphing calculators, this GPT allows users to perform operations like solving equations, graphing functions, calculating derivatives and integrals, performing regression analysis, and working with matrices or systems of equations. It also provides a seamless, step-by-step interactive experience to guide users through complex mathematical problems, making it ideal for students, educators, or anyone needing quick mathematical assistance. Whether the user needs to analyze data, compute statistical measures, or simply graph a function, TI-Calculator brings the familiar interface of the TI calculators to life in a digital form, helping users with precision, clarity, and ease.
 
+<br>
+
+| **Model**           | **Cost Range (USD)** | **Capabilities**                                                                                                                                                         | **Programmable** |
+|---------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| **TI-83 Plus**      | $90 - $120           | Basic graphing, statistics, calculus, algebra, finance functions, lists, and matrices.                                                                                  | Yes              |
+| **TI-84 Plus**      | $120 - $150          | Graphing, advanced calculus, statistics, matrix operations, finance functions, data collection, and probability.                                                       | Yes              |
+| **TI-84 Plus CE**   | $130 - $170          | Lightweight, color screen, advanced graphing, calculus, statistics, finance, matrices, complex numbers.                                                                | Yes              |
+| **TI-Nspire CX**    | $140 - $180          | Advanced graphing, 3D graphing, calculus, statistics, chemistry, dynamic geometry, programmable in Python and TI-Nspire scripting.                                       | Yes              |
+| **TI-Nspire CX II** | $160 - $200          | Enhanced performance, color screen, 3D graphing, Python programming, dynamic geometry, advanced calculus, and statistics.                                                | Yes              |
+| **TI-89 Titanium**  | $160 - $180          | Advanced calculus, algebra, differential equations, 3D graphing, matrices, advanced statistics, and symbolic math.                                                      | Yes              |
+| **TI-82 Stats**     | $80 - $100           | Basic graphing and statistical functions. Simple graphing, regression, and basic operations.                                                                          | No               |
+| **TI-73 Explorer**  | $60 - $80            | Basic graphing, algebra, and elementary statistics functions, intended for middle school level.                                                                        | No               |
+| **TI-30X Pro**      | $15 - $25            | Scientific calculator with basic math, algebra, and statistics functions. No graphing capabilities.                                                                    | No               |
+| **TI-34 MultiView** | $20 - $30            | Scientific calculator, basic algebra and statistics, displays multiple calculations at once. No graphing capabilities.                                                  | No               |
+
 #
 
 [ClockworkPi Terminal](https://github.com/sourceduty/ClockworkPi_Terminal)
