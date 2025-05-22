@@ -31,6 +31,8 @@ Calculators are essential tools that have revolutionized the way we perform math
 
 #
 
+[Terminal Coder](https://chatgpt.com/g/g-682d656ec59c8191b6938d3656022f89-terminal-coder)
+<br>
 [ClockworkPi Terminal](https://github.com/sourceduty/ClockworkPi_Terminal)
 <br>
 [Terminal Programs](https://github.com/sourceduty/Terminal_Programs)
