@@ -1,4 +1,4 @@
-![Calc](https://github.com/user-attachments/assets/2d17e802-eb64-4eaf-bc03-77d7410fbac5)
+![Maths](https://github.com/user-attachments/assets/984e8074-90d7-4464-a8d9-6a805af5a0c4)
 
 Calculators are essential tools that have revolutionized the way we perform mathematical operations. From basic handheld devices to sophisticated scientific or graphing calculators, they allow individuals to quickly and accurately solve arithmetic, algebraic, and complex mathematical problems. Initially designed to simplify basic calculations, calculators have evolved over the years, integrating advanced features such as trigonometric functions, statistical analysis, and even programming capabilities. Whether used in education, business, engineering, or everyday life, calculators help streamline tasks, enhance productivity, and eliminate errors associated with manual computation. Their portability, ease of use, and versatility make them indispensable in a wide range of fields.
 
